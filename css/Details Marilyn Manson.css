@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap eCommerce Page Template</title>
+    <!-- Bootstrap -->
+    <link href="../website/css/bootstrap-4.4.1.css" rel="stylesheet">
+	  <link rel="stylesheet"href="../website/css/bootstrap-4.4.1.css"
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <a class="navbar-brand" href="#">Websiter</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="Home.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active"> <a class="nav-link" href="#"> <span class="sr-only">current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="เสื้อ Nirvana.html">เสื้อ Nirvana <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="เสื้อ Marilyn Manson.html">เสื้อ Marilyn Manson <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="เสื้อ Jimi Hendrix.html">เสื้อ Jimi Hendrix <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="ช่องทางการชำระเงิน.html">ช่องทางการชำระเงิน <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="ติดต่อเรา.html">ติดต่อเรา <span class="sr-only">(current)</span></a></li>
+          </ul>
+</div>
+      </div>
+    </nav>
+  <div class="container mt-3">
+      <div class="row">
+        <div class="col-12 col-xl-12">
+          <div id="carouselExampleControls" class="align text-center" data-ride="carousel"> <img src="img/รูปภาพ/banner 2.jpg" width="1000" height="300" alt="center"/>
+            <div class="carousel-inner">
+<div class="carousel-item">
+            <img class="d-block w-100" src="../website/images/1920x500.gif" alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+                  <h5>Item 2 Heading</h5>
+                  <p>Item 2 Description</p>
+            </div>
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="../website/images/1920x500.gif" alt="Third slide">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Item 3 Heading</h5>
+                  <p>Item 3 Description</p>
+                </div>
+              </div>
+            </div>
+</div>
+        </div>
+      </div>
+      <hr>
+    </div>
+<div class="container">
+  <div class="row">
+        <div class="col-lg-4 col-xl-7">
+          <p>Brian Hugh Warner เกิดที่เมืองแคนตันรัฐโอไฮโอเมื่อวันที่ 5 มกราคม พ.ศ. 2512 ลูกชายคนเดียวของบาร์บาราวอร์เนอร์ไวเออร์ (เสียชีวิต 13 พฤษภาคม 2557) และฮิวจ์แองกัสวอร์เนอร์ (เสียชีวิต 7 กรกฎาคม 2560) เขามีเชื้อสายอังกฤษเยอรมันและไอริช เขายังอ้างว่าแม่ของเขาซึ่งครอบครัวยกย่องจากแนวเทือกเขาในเวสต์เวอร์จิเนียมีซูมรดก เป็นเด็ก, วอร์เนอร์เข้าร่วมของแม่ของเขาบาทหลวงคริสตจักรแม้ว่าพ่อของเขาเป็นโรมันคาทอลิก เขาเข้าเรียนที่โรงเรียนเฮอริเทจคริสเตียนตั้งแต่ชั้นประถมศึกษาปีที่ 1 ถึงชั้นประถมศึกษาปีที่ 10 ในโรงเรียนนั้นอาจารย์ของเขาพยายามแสดงให้เด็กเห็นว่าพวกเขาไม่ควรฟังเพลงอะไร จากนั้นวอร์เนอร์ก็ตกหลุมรักในสิ่งที่เขา "ไม่ควรทำ" วอร์เนอร์ต่อมาย้ายไปโรงเรียนมัธยม GlenOakและจบการศึกษาจากที่นั่นในปี 1987 หลังจากที่ตั้งรกรากอยู่กับพ่อแม่ของเขาเขาเป็นนักเรียนที่วอร์ดวิทยาลัยชุมชนในฟลอริด้าในปี 1990 เขาได้ทำงานต่อในระดับปริญญาในสื่อสารมวลชนดึงดูด มีประสบการณ์ในสนามโดยการเขียนบทความสำหรับนิตยสารดนตรีขนาน 25 ]เขายังให้สัมภาษณ์กับนักดนตรีและในไม่ช้าก็ได้พบกับนักดนตรีหลายคนที่ผลงานของเขาถูกเปรียบเทียบในเวลาต่อมารวมถึงGroovie MannจากMy Life with the Thrill Kill KultและTrent ReznorจากNine Inch Nailsโดยต่อมาได้กลายเป็นที่ปรึกษาของเขาและ ผลิตอัลบั้มเปิดตัวของเขา</p>
+          <p>วอร์เนอร์และมือกีต้าร์สก็อตต์ "เดซี่เบอร์โควิทซ์" Puteskyก่อตั้งมาริลีนแมนสันและเด็กผีตามการสนทนาที่ห้องเรอูนียงในฟอร์ตลอเดอร์เดลฟลอริดาในปี พ.ศ. 2532 ต่อมาชื่อสั้นลงเป็นมาริลีนแมนสัน ในขณะที่อยู่กับ The Spooky Kids Manson ได้ร่วมงานกับJeordie White (หรือที่รู้จักกันในชื่อ Twiggy Ramirez) และ Stephen Gregory Bier Jr. (หรือที่รู้จักกันในชื่อMadonna Wayne Gacy ) ในสองโปรเจ็กต์: Satan on Fire วงดนตรีโลหะแบบคริสเตียนเล่นกีตาร์เบสและกลองใน Mrs. Scabtree วงดนตรีที่ร่วมมือกันก่อตั้งขึ้นกับ White และแฟนสาวJessicka (นักร้องร่วมกับวงJack Off Jill ) เพื่อต่อสู้กับข้อตกลงตามสัญญาที่ห้ามไม่ให้ Marilyn Manson เล่นในคลับบางแห่ง ในปี 1993 วงนี้ได้รับความสนใจจากTrent Reznorผู้ผลิตอัลบั้มPortrait of an American Familyเปิดตัวในปี 1994 และเปิดตัวในค่ายเพลงNothing Records วงดนตรีเริ่มพัฒนาผู้ชมซึ่งมีจำนวนมากขึ้นใน Downward Spiral Tour ที่มี Nine Inch Nails และJim Rose Circusพร้อมกับการเปิดตัวSmells Like Childrenในปี 1995 EP นั้นทำให้ MTV ตีใหญ่ครั้งแรกของวงด้วยเพลง " Sweet Dreams ( Are Made of This) "ซึ่งเป็นปกของเพลงฮิตEurythmics ในปี 1983 Antichrist Superstar (ร่วมผลิตโดย Trent Reznor) เป็นความสำเร็จที่ยิ่งใหญ่กว่า &nbsp;</p>
+<p>&nbsp;</p>
+          <p>&nbsp;</p>
+<p>&nbsp;</p>
+        </div>
+<div class="col-lg-4 col-xl-5">
+      <ul class="align text-center">
+            <li class="media"> </li>
+            <img src="img/รูปภาพ/Manson.jpg" width="300" height="250" alt=""/>
+          </ul>
+        </div>
+  </div>
+  </div>
+    <hr>
+<footer class="text-center">
+  <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Woramet Pumjan PWS.1/3</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../website/js/jquery-3.4.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../website/js/popper.min.js"></script>
+    <script src="../website/js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>

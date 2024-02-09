@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap eCommerce Page Template</title>
+    <!-- Bootstrap -->
+    <link href="../website/css/bootstrap-4.4.1.css" rel="stylesheet">
+	  <link rel="stylesheet"href="../website/css/bootstrap-4.4.1.css"
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <a class="navbar-brand" href="#">Websiter</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="Home.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active"> <a class="nav-link" href="#"> <span class="sr-only">current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="เสื้อ Nirvana.html">เสื้อ Nirvana <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="เสื้อ Marilyn Manson.html">เสื้อ Marilyn Manson <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="เสื้อ Jimi Hendrix.html">เสื้อ Jimi Hendrix <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="ช่องทางการชำระเงิน.html">ช่องทางการชำระเงิน <span class="sr-only">(current)</span></a> </li>
+            <li class="nav-item active"> <a class="nav-link" href="ติดต่อเรา.html">ติดต่อเรา <span class="sr-only">(current)</span></a></li>
+          </ul>
+</div>
+      </div>
+    </nav>
+  <div class="container mt-3">
+      <div class="row">
+        <div class="col-12 col-xl-12">
+          <div id="carouselExampleControls" class="align text-center" data-ride="carousel"> <img src="img/รูปภาพ/banner 3.jpg" width="1000" height="300" alt="center"/>
+            <div class="carousel-inner">
+<div class="carousel-item">
+            <img class="d-block w-100" src="../website/images/1920x500.gif" alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+                  <h5>Item 2 Heading</h5>
+                  <p>Item 2 Description</p>
+            </div>
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="../website/images/1920x500.gif" alt="Third slide">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Item 3 Heading</h5>
+                  <p>Item 3 Description</p>
+                </div>
+              </div>
+            </div>
+</div>
+        </div>
+      </div>
+      <hr>
+    </div>
+<div class="container">
+  <div class="row">
+        <div class="col-lg-4 col-xl-7">
+          <p>Jimi Hendrix ตำนานมือกีต้าร์ที่ยิ่งใหญ่ที่สุดเท่าที่โลกเคยมีมา นี่คือสิ่งที่ทุกคนรับรู้ แต่น่าเสียดายที่เค้าด่วนจากโลกไปด้วยวัยเพียง 27 ปี เท่านั้น แต่ภายในช่วงเวลาไม่กี่ปีที่เค้าโลดแล่น และแสดงถึงพรสวรรค์ระดับพระเจ้าอยู่บนโลกนี้ “กีต้าร์ไฟฟ้า” คือเครื่องดนตรีที่ Jimi เล่นมันจนกระจ่างชนิดที่ไม่มีนักดนตรีคนไหนเข้าถึงมาก่อนในเวลานั้น และนี่อาจจะเป็นเรื่องราวที่ไม่เคยมีใครรู้มาก่อน เรื่องราวที่อยู่เหนือหลุมฝังศพของชายชื่อ Jimi Hendrix </p>
+          <p>Jimi Hendrix ไม่ใช่ชื่อที่ พ่อ และ แม่ ตั้งให้เค้า เค้าเกิดที่ ซีแอตเทิล ประเทศ สหรัฐอเมริกา เมื่อวันที่ 27 พฤศจิกายน 1942 โดยแม่ของเค้าตั้งชื่อเค้าว่า Johnny Allen Hendrix ซึ่งในขณะนั้นพ่อของเค้า Al Hendrix กำลังรับราชการทหาร และกำลังอยู่ในสงคราม สงครามโลกครั้งที่ 2 เมื่อพ่อของเค้ากลับมาจากยุโรปในปี 1945 หลังจากนั้นก็อย่าขาดกับแม่ของ Jimi และตั้งชื่อให้เค้าใหม่ว่า James Marshall Hendrix จนชีวิตเค้าได้เดินทางมาถึงปี 1966 Chas Chandler มือเบสวง The Animals ซึ่งต่อมาเป็นผู้จัดการของ Jimi แนะนำให้เค้าเปลี่ยน จาก James เป็น Jimi&nbsp;</p>
+          <p>Jimi Hendrix เกือบจะเป็นทหารอากาศซะแล้ว เมื่อเค้าลาออกจาก High School แล้ว ในปี 1959 เค้ากลายเป็นสมาชิกคนนึงของ “ The Screaming Eagles’ 101st Airborne ใน รัฐเคนตั๊กกี้ ในปีต่อมาเค้าถูกปลดประจำการเนื่องจากอุบัติเหตุหลังจากการกระโดดร่ม ทำให้ข้อเท้าหัก ในการกระโดดร่มครั้งที่ 26 ในชีวิตของเค้าพ่อของเค้าคือผู้สนับสนุน Jimi Hendrix ในตอนแรก เพื่อเข้าสู่หนทางการเป็นตำนานกีต้าร์ของโลก พ่อของเค้ารู้ดีว่า Jimi มีพรสวรรค์มากขนาดไหน จึงสนับสนุน Jimi โดยซื้อกีต้าร์โปร่งตัวแรกให้ Jimi ในราคา $5 เท่านั้น และเมื่ออายุ 15 Jimi แสดงความตั้งใจที่จะเดินไปตามทางถนนนักดนตรีเพื่อตามหาความฝันของเค้า โดยที่พ่อเค้าซื้อกีต้าร์ไฟฟ้า Supro Ozark 1560s ให้เป็นอาวุธคู่กาย&nbsp;</p>
+          <p>มีนามแฝงว่า Jimmy James ตอนเป็นนักดนตรี Back up เส้นทางนักดนตรีของ Jimi ได้พิสูจน์ให้เห็นถึงความมุ่งมั่น Jimi Hendrix เคยทำงานเป็น นักดนตรี Back up ในชื่อ Jimmy james ในตอนหลังของปี 1965 เค้าได้เล่นให้กับ Ike And Tina Turner, Sam Cooke, The Isley Brothers, และ Little Richard ซึ่งตอนหลัง Richard มีปัญหาไม่ลงรอยกับ Jimi เนื่องจากการแต่งตัวของ Jimi สีฉูดฉาดเกินไป โดยที่ Richard ให้เหตุผลว่า ไม่ควรมีอะไรที่จะเด่นเด้งขึ้นมามากกว่าความเป็น Star ของเค้า การเป็นประเด็นครั้งนี้ จึงทำให้หลายๆ คนสนใจ Back up คนนี้ทันที และการที่เล่นกีต้าร์กลับสาย ก็ทำให้เค้ากลายเป็นจุดโฟกัสของสปอตไลท์ มากขึ้นกว่าเดิมอีก&nbsp;</p>
+          <p>ความสิ้นหวัง และ ความหวัง ในประเทศอังกฤษ Jimi หมดหวังที่จะเดินตามรอย มือกีต้าร์ Idol ชาวอังกฤษของเค้า Jimi ก้าวเท้าเข้าสู่ประเทศอังกฤษ ในวันที่ 24 กันยายน 1966 โดยที่เค้ามีเพียงถุงเล็กๆ ใบนึงไว้ใส่เสื้อผ้า กีต้าร์ของเค้า และที่ม้วนผมพลาสติกสีชมพู กับครีมทาสิว Jimi ได้พบกับ Chas Chandler คนที่เค้าทำการตกลงว่าจะมาที่ประเทศอังกฤษถ้า Chas Chandler รับปากว่าจะแนะนำเค้าให้ Eric Clapton แห่งวง Cream ในตอนนั้นรู้จัก และหลังจากนั้นภายใน 48 ชั่วโมง เค้าก็ขึ้นไปอยู่บนเวทีกับ Eric Clapton, Ginger Baker และ Jack Bruce&nbsp;พรสวรรค์ของ Jimi ถูกสงสัยโดยพ่อที่เป็นผู้สนับสนุน Jimi มีเทคนิคกีต้าร์ที่หลายๆ คน ต้องทึ่ง ไม่ว่าความแปลกใหม่ อย่างการใช้ฟันเล่น หรือการเล่นกีต้าร์ที่ยกไปไว้ด้านหลัง และเทคนิคอีกมากมาย ที่ทำให้หลายๆ คนประหลาดใจ แต่การที่เค้าใช้ Fender Stratocaster แบบกลับด้าน เพื่อให้เค้าสามารถเล่นด้วยมือซ้ายได้ถนัดนั้น ได้ถูกมองว่าเป้นพวกนอกรีต และพ่อแท้ๆ ของเค้ากลับมองว่า มันเป็นสัญลักษณ์ของ ซาตาน</p>
+          <p>ใช่ว่า Jimi จะต้องมากับ Fender เสมอไป อาวุธคู่กายที่เห็นได้บ่อยที่สุดคือ Fender Stratocaster ที่ทุกๆ คนเห็นจนชินตา แต่ Jimi จะเลือกเล่น Gibson SG ,Gibson Flying V และ Les Paul ในโอกาศสำคัญๆ อีกด้วย และยังมี Fender Jazzmaster กับ Fender Duo-Sonic อีกต่างหาก&nbsp;และนี่เป็นเพียงบางส่วนเท่านั้น ยังมีอีกหลายเรื่องที่ลึกซึ้ง โดยที่บทความนี้เราจะนำเสนอเรื่องที่สามารถเห็นได้ชัดเจนก่อน ตอนต่อไปจะมีเหตุการณ์ต่างๆ ที่เกิดขึ้นกับเค้า อย่างเช่น เกิดอะไรขึ้น ก่อนที่เค้าจะทำการเล่นคอนเสริตร์ที่สะกดคนทั้งโลกให้จดจำเค้าอย่าง WOODSTOCK ในปี 1969 เรื่องความสัมพันธ์ของเค้ากับผู้จัดการส่วนตัว Mike Jeffrey ว่ามีอะไรระหว่างเค้าทั้ง 2 หรือไม่ รอติดตามในตอนหน้านะครับ</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+        </div>
+<div class="col-lg-4 col-xl-5">
+      <ul class="align text-center">
+            <li class="media"> </li>
+            <img src="img/รูปภาพ/Hendrix.jpg" width="300" height="250" alt=""/>
+          </ul>
+        </div>
+  </div>
+  </div>
+    <hr>
+<footer class="text-center">
+  <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Woramet Pumjan PWS.1/3</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../website/js/jquery-3.4.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../website/js/popper.min.js"></script>
+    <script src="../website/js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>
